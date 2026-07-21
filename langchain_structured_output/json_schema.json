@@ -1,0 +1,13 @@
+{
+    "title": "Event Organizer",
+    "type": "object",
+    "description": "It is about the details of people who attend the event.",
+    "properties": {
+        "event_name" : "string",
+        "participant_name" : "string",
+        "email" : "string",
+        "phone" : "integer",
+        "ticket_type" : "string"
+    },
+    "required": ["event_name", "participant_name", "phone", "ticket_type"]
+}

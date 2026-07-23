@@ -38,3 +38,6 @@ streamlit
 
 # for structured output
 pydantic
+
+# Jupyter Notebook Utilities
+ipykernel

@@ -1,6 +1,10 @@
 # langchain core
 langchain
 langchain-core
+langchain-community
+
+# Groq Integration
+langchain-groq
 
 # OpenAI Integration
 langchain-openai

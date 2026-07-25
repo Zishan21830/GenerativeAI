@@ -2,6 +2,7 @@
 langchain
 langchain-core
 langchain-community
+langchain-text-splitters
 
 # Groq Integration
 langchain-groq
@@ -45,3 +46,10 @@ pydantic
 
 # Jupyter Notebook Utilities
 ipykernel
+
+# tikenization Utilities
+tiktoken
+
+# Vectore Store
+chromadb
+langchain-chroma

@@ -1,0 +1,6 @@
+
+Grouped Query Attention (GQA) is an optimization of multi-head attention where
+multiple query heads share a smaller number of key and value heads. This design
+reduces memory usage and speeds up inference while maintaining performance close
+to standard multi-head attention. GQA is widely adopted in recent large language
+models because it offers an effective trade-off between efficiency and accurac

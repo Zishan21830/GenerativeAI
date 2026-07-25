@@ -52,4 +52,5 @@ tiktoken
 
 # Vectore Store
 chromadb
+faiss-cpu
 langchain-chroma
